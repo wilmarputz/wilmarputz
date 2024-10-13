@@ -1,24 +1,11 @@
-<h1 align="center">Welcome to my page, I'm Wilmar (a.k.a Willi)👋</h1>
-<br>
-<h3 align="left">A passionate frontend developer from Brazil, based in Lisbon, Portugal</h3>
+<h1 align="center">I'm Wilmar (a.k.a Willi)👋</h1> <br> <h3 align="left">A passionate developer from Brazil, based in Lisbon, Portugal, specializing in AI 🤖 and Web3 🌐 technologies</h3>
 
-- 🌱 I’m currently learning **React.JS and Vue.JS**
-
-- 💬 Ask me about **CSS, HTML, JS or Bootstrap**
-
-- 📫 How to reach me **wilmarputz10@gmail.com**
-
-- ⚡ Fun fact **Samba is my lo-fi**
+🌱 Always learning, constantly exploring new tools to enhance my projects and impact lives.
+📫 How to reach me: wilmarputz10@gmail.com
+⚡ Fun fact: Samba is my lo-fi
 
 <br><br>
 
-My Bootcamp Projects🚀: 
-<br>
-[Aircam](https://github.com/pontuslofgren/AIRCAM): an AirBnb clone
-<br>
-[Sports Buddy](https://github.com/pontuslofgren/sportsbuddy): a "social-workout" platform 
-
-<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
