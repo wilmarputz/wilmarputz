@@ -1,23 +1,35 @@
-<h1 align="center">I'm Wilmar (a.k.a Willi)👋</h1> <br> <h3 align="left">A passionate developer from Brazil, based in Lisbon, Portugal, specializing in AI 🤖 and Web3 🌐 technologies</h3>
+# Hi there! I'm Wilmar Putz 👋
 
-🌱 Always learning, constantly exploring new tools to enhance my projects and impact lives.
-📫 How to reach me: wilmarputz10@gmail.com
-⚡ Fun fact: Samba is my lo-fi
+I'm a web developer with a passion for creating innovative digital solutions and simplifying processes using cutting-edge technologies. My journey combines a strong foundation in **International Relations** with technical expertise gained through a dedicated bootcamp in programming. Here's what defines me:
 
-<br><br>
+---
 
+### **What I Do 🌐**
+- **Web Development**: I specialize in building modern, responsive websites and small apps tailored to businesses.
+- **AI-Enhanced Workflow**: My work integrates AI tools to streamline development and deliver top-tier results efficiently.
+- **Blockchain & Web3 Enthusiast**: I’m deeply interested in Bitcoin and innovations like Ordinals and Runes, with hands-on experience in NFT projects.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/wilmar-putz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wilmar-putz" height="30" width="40" /></a>
-</p>
+---
 
-<br>
+### **Current Projects 🎨**
+- **Floppy**: An app to centralize pet adoptions using AI, Supabase, and a seamless user experience.
+- **$BULLS**: A memecoin project focused on community and transparency.
+- **Coinheads Gallery**: A showcase platform for Ordinal NFTs.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wilmarputz&show_icons=true&locale=en&layout=compact" alt="wilmarputz" /></p>
+### **What I Bring to the Table 🌈**
+- **Creative Problem-Solving**: From simple websites to Web3 applications, I craft solutions that combine form and function.
+- **Technological Fluency**: Proficient in **Next.js**, **React**, **Tailwind**, and backend integration using **Supabase**.
+- **AI Integration**: Leveraging tools like VZero and Cursor AI to push boundaries in development.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wilmarputz&show_icons=true&locale=en" alt="wilmarputz" /></p>
+---
+
+### **Let’s Connect 🌎**
+Feel free to reach out for collaborations, new ideas, or even a quick tech chat! Here’s how to find me:
+- **Portfolio**: https://portfolioputz.vercel.app/
+- **LinkedIn**: https://www.linkedin.com/in/wilmar-putz/
+- **Twitter**: https://x.com/ptz_btc
+
+Let’s build something incredible together! 🤗
 
